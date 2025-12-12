@@ -9,6 +9,7 @@ Hi, I'm Alex and I like to make stuff.
 - **[SwiftBar](https://github.com/swiftbar/SwiftBar)** — Menu bar customization for macOS. Run any script, see the output in your menu bar.
 - **[TRex](https://github.com/amebalabs/TRex)** — Copy any text on your screen. Stop retyping.
 - **[SwiftKey](https://github.com/amebalabs/SwiftKey)** — Hackable launcher for macOS.
+- **[Kefir](https://github.com/amebalabs/Kefir)** — Control KEF speakers from your menu bar.
 
 ---
 
