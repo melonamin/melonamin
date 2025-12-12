@@ -1,17 +1,3 @@
-```
-melonamin@nva λ cowsay "I love ARCH BTW"
- __________________
-< I love ARCH BTW  >
- ------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
----
-
 Hi, I'm Alex and I like to make stuff.
 
 ### macOS Productivity
@@ -41,4 +27,17 @@ Hi, I'm Alex and I like to make stuff.
 **[gt](https://github.com/melonamin/gt)** — Git worktrees without the pain.
 
 
+---
+
+```
+melonamin@nva λ cowsay "I love ARCH BTW"
+ __________________
+< I love ARCH BTW  >
+ ------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 ---
