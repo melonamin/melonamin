@@ -29,7 +29,7 @@ Hi, I'm Alex and I like to make stuff.
 ```
 melonamin@nva λ cowsay "I love ARCH BTW"
  __________________
-< I love ARCH BTW  >
+< I use ARCH BTW  >
  ------------------
         \   ^__^
          \  (oo)\_______
