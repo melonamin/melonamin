@@ -22,19 +22,7 @@ Hi, I'm Alex and I like to make stuff.
 
 #### Utilities
 
-- **[GHVault](https://github.com/melonamin/ghvault)** - Comprehensive GitHub backups
+- **[GHVault](https://github.com/melonamin/ghvault)** - Comprehensive GitHub backups.
 - **[SwiftKEF](https://github.com/melonamin/SwiftKEF)** — Control KEF wireless speakers from Swift.
 - **[try](https://github.com/melonamin/try)** — Disposable directories for experiments.
 - **[gt](https://github.com/melonamin/gt)** — Git worktrees without the pain.
-
-```
-melonamin@nva λ cowsay "I love ARCH BTW"
- __________________
-< I use ARCH BTW  >
- ------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
