@@ -17,6 +17,7 @@ Hi, I'm Alex and I like to make stuff.
 
 - **[PondPilot](https://github.com/pondpilot/pondpilot)** — Local-first SQL workbench. Your data stays on your machine.
 - **[pondpilot-widget](https://github.com/pondpilot/pondpilot-widget)** — Embed interactive SQL snippets in your docs.
+- **[FlowScope](https://github.com/pondpilot/flowscope)** - Privacy-first SQL lineage engine. Analyze SQL queries in the browser. Supports PostgreSQL, Snowflake, BigQuery, DuckDB and more.
 
 ---
 
